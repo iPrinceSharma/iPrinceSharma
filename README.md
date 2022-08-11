@@ -1,4 +1,4 @@
-### Priyanshu Sharma
+## Priyanshu Sharma
 #### Full Stack Developer
 ![Full Stack Developer](https://github.com/iPrinceSharma/iPrinceSharma/blob/main/images/Banner.png)
 
